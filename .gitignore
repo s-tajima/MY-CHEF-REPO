@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 /cookbooks/
+=======
+.vagrant
+/cookbooks
+
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
+>>>>>>> 7ab47525a2b234ddb910fada31089eb22e1af40a
