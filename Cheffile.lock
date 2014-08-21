@@ -1,0 +1,8 @@
+SITE
+  remote: https://supermarket.getchef.com/api/v1
+  specs:
+    yum (3.2.4)
+
+DEPENDENCIES
+  yum (>= 0)
+
