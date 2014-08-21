@@ -4,3 +4,4 @@
 site 'https://supermarket.getchef.com/api/v1'
 
 cookbook 'yum'
+cookbook 'yum-epel'
