@@ -3,6 +3,7 @@
     "recipe[yum]",
     "recipe[yum-epel]",
     "recipe[yum-repoforge]",
-    "recipe[basic-pack]"
+    "recipe[basic-pack]",
+    "recipe[redis]"
   ]
 }
